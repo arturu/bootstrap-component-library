@@ -201,7 +201,7 @@ exports[`OE - Group Landing renders correctly 1`] = `
         id="banner-description"
       >
         <div
-          class="row mt-md-4 mb-md-5 pb-md-5"
+          class="row mt-md-4 mb-md-5 pb-md-3"
         >
           <div
             class="col-md-8"
@@ -367,7 +367,7 @@ exports[`OE - Group Landing renders correctly 1`] = `
         </div>
       </div>
       <div
-        class="row mt-3 mt-md-5 pt-md-5"
+        class="row mt-3 mt-md-5"
       >
         <div
           class="col-md-8"
